@@ -3,6 +3,6 @@ name = "cargo-notify"
 version = "0.1.0"
 authors = ["Issei Horie <is2ei.horie@gmail.com>"]
 description = "Cargo subcommand for notification"
-lisence = "MIT"
+lisense = "MIT"
 
 [dependencies]
